@@ -1,1 +1,2 @@
 # Global-stock-exchange
+Performed exploratory data analysis (EDA) and time-series modeling on global stock exchange datasets to uncover market trends and volatility patterns. Engineered features from historical stock data, applied machine learning models (e.g., RandomForest, regression, neural networks) for price movement prediction, and visualized insights using Matplotlib & Seaborn. Built an interactive Streamlit dashboard to compare stock performance across regions and forecast future trends.
